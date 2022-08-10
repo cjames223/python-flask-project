@@ -2,7 +2,7 @@
 Basic information on the fire type starter pokemon from Pokemon generations 1 to 3.
 
 ## HOW TO USE
-Has Create, Read, And Delete Operations. Perform operations using Postman.
+Has full CRUD operations. Perform operations using Postman.
 
 - `GET`:
     
